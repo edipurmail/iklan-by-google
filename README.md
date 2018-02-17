@@ -1,0 +1,2 @@
+# iklan-by-google
+ads
